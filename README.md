@@ -2,6 +2,7 @@
 👨‍⚖️REDES DE COMPUTADORES SÃO SISTEMAS QUE PERMITEM A CONEXÃO E COMUNICAÇÃO ENTRE DIFERENTES COMPUTADORES E DISPOSITIVOS, PERMITINDO O COMPARTILHAMENTO DE INFORMAÇÕES E RECURSOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=REDES-DE-COMPUTADORES)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&si=6S1fGFAb_wPHrtpt) <br>
 
 <img src="https://media.licdn.com/dms/image/D4D12AQFkRm2lkCmBKw/article-cover_image-shrink_720_1280/0/1690344430788?e=2147483647&v=beta&t=Tf0i_SU-qN53WsrYIVe_ui_w-XW5Y5iLVxgXYo7Yvik" align="center" width="280"> <br>
