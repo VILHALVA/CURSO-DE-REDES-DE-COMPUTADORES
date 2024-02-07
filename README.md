@@ -1,10 +1,9 @@
 # CURSO DE REDES DE COMPUTADORES
 👨‍⚖️REDES DE COMPUTADORES SÃO SISTEMAS QUE PERMITEM A CONEXÃO E COMUNICAÇÃO ENTRE DIFERENTES COMPUTADORES E DISPOSITIVOS, PERMITINDO O COMPARTILHAMENTO DE INFORMAÇÕES E RECURSOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&si=6S1fGFAb_wPHrtpt) <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# 🌟CONCEITO:
+## CONCEITO:
 1. **Conexão de Dispositivos:** Redes de computadores permitem que dispositivos se comuniquem entre si, seja por meio de cabos físicos ou conexões sem fio, como Wi-Fi.
 
 2. **Compartilhamento de Recursos:** Uma das principais finalidades das redes é o compartilhamento de recursos, como impressoras, arquivos, conexão à internet e dispositivos de armazenamento.
@@ -21,7 +20,7 @@
 
 8. **Aplicações Diversas:** Redes são usadas em uma ampla variedade de aplicações, desde a internet global até redes empresariais, redes de campus universitários e redes residenciais.
 
-# 💚SUA HISTÓRIA:
+## SUA HISTÓRIA:
 A história das redes de computadores é uma jornada fascinante que abrange décadas e está intrinsecamente ligada ao desenvolvimento da computação e das tecnologias de comunicação. Aqui está um resumo dos marcos mais significativos na história das redes de computadores:
 
 1. **Década de 1960 - ARPANET:** A história das redes de computadores modernas começou com a criação da ARPANET (Advanced Research Projects Agency Network) em 1969 pelo Departamento de Defesa dos EUA. Foi a primeira rede a usar o protocolo TCP/IP, que mais tarde se tornou a base da internet.
@@ -40,11 +39,8 @@ A história das redes de computadores é uma jornada fascinante que abrange déc
 
 A história das redes de computadores é uma narrativa de evolução constante, impulsionada por avanços tecnológicos e inovações que transformaram a forma como as pessoas se comunicam e compartilham informações. A internet se tornou uma força motriz da economia global, da educação, da comunicação e da sociedade em geral, moldando profundamente o mundo em que vivemos.
 
-# 💥CARACTERISTICAS:
-As redes de computadores têm uma série de características positivas e negativas que afetam a forma como são usadas e seus impactos na sociedade. Aqui estão algumas das principais características positivas e negativas:
-
-**Características Positivas:**
-
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Conectividade Global:** As redes de computadores, especialmente a Internet, conectam pessoas e recursos em todo o mundo, permitindo comunicação e colaboração em escala global.
 
 2. **Compartilhamento de Recursos:** Redes permitem o compartilhamento eficiente de recursos, como impressoras, servidores, armazenamento em nuvem e conexões à internet.
@@ -57,8 +53,7 @@ As redes de computadores têm uma série de características positivas e negativ
 
 6. **Mobilidade:** A conectividade sem fio, como o Wi-Fi e o 4G/5G, possibilitou a mobilidade e o acesso à internet em qualquer lugar.
 
-**Características Negativas:**
-
+### NEGATIVAS:
 1. **Segurança Cibernética:** As redes são vulneráveis a ameaças cibernéticas, incluindo hackers, malware e phishing, o que coloca em risco a privacidade e a segurança dos dados.
 
 2. **Vício e Dependência:** O uso excessivo da internet e das redes sociais pode levar a problemas de saúde mental, como vício e isolamento social.
@@ -71,4 +66,7 @@ As redes de computadores têm uma série de características positivas e negativ
 
 6. **Monopólios e Concentração de Poder:** Algumas empresas de tecnologia dominam o mercado, criando preocupações sobre monopólios e concentração de poder.
 
-É importante notar que as redes de computadores são ferramentas neutras, e seus impactos positivos ou negativos dependem de como são usadas e regulamentadas. Muitos esforços estão sendo feitos para abordar os desafios negativos, como a segurança cibernética, a privacidade e a desigualdade digital, enquanto se promovem os aspectos positivos, como a inovação e a conectividade global.
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dkd4lr9G0Up-W-YaHYdTDuP&si=6S1fGFAb_wPHrtpt)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+
